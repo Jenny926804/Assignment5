@@ -1,0 +1,5 @@
+openai-agents
+mcp
+fastmcp
+httpx
+pytest
